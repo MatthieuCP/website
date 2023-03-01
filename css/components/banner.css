@@ -1,0 +1,20 @@
+.banner {
+  background-image: linear-gradient(-225deg, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0.4) 55%), url(../../images/background.jpeg);
+  background-size: cover;
+  text-align: center;
+  padding: 80px;
+  height:500px;
+}
+
+.banner h1 {
+  margin: 0;
+  font-size: 100px;
+  color: ##364652;
+  font-family:Calibri;
+}
+
+.banner h2 {
+  margin: 40px;
+  font-family: Calibri;
+  color:##364652;
+}

@@ -1,0 +1,41 @@
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  background-color: #6A7A8A;
+}
+
+
+.content {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 40px 20px;
+  text-align: center;
+  background-color: #D9DFE3;
+  border-radius: 10px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.2)
+}
+
+.content p {
+  margin-bottom: 20px;
+  color: #364652;
+  font-size: 16px;
+}
+
+.content a:hover {
+  background-color: #666;
+}
+
+
+
+#apply-section{
+	margin:10px;
+}
+
